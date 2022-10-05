@@ -1,6 +1,6 @@
 # sandcastle
 스타크래프트 모래성전투 Renew  
-오픈카톡 링크: https:1//open.kakao.com/o/g6Y7dmEe  
+[오픈카톡 링크: https:1//open.kakao.com/o/g6Y7dmEe](https:1//open.kakao.com/o/g6Y7dmEe)  
 
 # commit log 작성 원칙
 메이저 변경점 적기  
