@@ -1,6 +1,6 @@
 # sandcastle
 스타크래프트 모래성전투 Renew  
-오픈카톡 링크: https:1//open.kakao.com/o/g6Y7dmEe  
+오픈카톡 링크: [https://open.kakao.com/o/g6Y7dmEe](https://open.kakao.com/o/g6Y7dmEe)  
 
 # commit log 작성 원칙
 메이저 변경점 적기  
@@ -20,3 +20,4 @@
 6. 스타포트 캐리어, 아비터 유닛 각각 가디언, 디바우러로 추가
 7. 동쪽팀 건물 배치 조금 불리한점에 대한 혜택 제공? (추가 자원?)
 8. 서플, 터렛 밸런스 고민
+9. 공중 버벅임 패트롤 해결
